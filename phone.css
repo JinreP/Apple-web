@@ -24,7 +24,9 @@ height: 48px;
 header {
   padding-top: 1500px;
 }
-
+nav a {
+    display: none;
+}
 .slide-2 {
     display: none;
 }

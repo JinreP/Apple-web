@@ -57,7 +57,9 @@ header {
 height: 73px;
 padding: 18px 31px;
 justify-content: center;
-align-items: center;
+padding-top: 80px;
+padding-bottom: 30px;
+text-align: center;
 align-self: stretch;
 }
 .section-1 {

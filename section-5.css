@@ -92,6 +92,7 @@ justify-content: center;
 align-items: center;
 gap: 10px;
 border-radius: 999px;
+border: none;
 background: #F5F5F7;
 color: #000;
 font-family: Inter;
@@ -169,5 +170,30 @@ flex-shrink: 0;
     border-radius: 50%;
 }
 .phone-movie {
+    display: none;
+}
+
+.movie-3 p {
+        text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.60);
+font-family: Inter;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px; /* 117.647% */
+opacity: 0.999;
+color: #FFF;
+font-family: Inter;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+}
+
+    .phone-article {
     display: none;
 }

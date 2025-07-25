@@ -501,6 +501,10 @@ flex-shrink: 0;
 nav a {
     display: none;
 }
+
+.phone-article {
+    display: none;
+}
 }
 
 

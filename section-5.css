@@ -197,3 +197,35 @@ line-height: 20px;
     .phone-article {
     display: none;
 }
+
+.section-5 {
+    animation: section-5 infinite 5s alternate;
+      scroll-behavior: smooth;
+
+}
+.section-5:hover {
+    animation-play-state: paused;
+}
+
+.bullets:hover {
+    animation-play-state: paused;
+}
+@keyframes section-5 {
+  0% {
+    padding-left: -200px;
+  }
+  25% {
+    margin-left: -600px;
+  }
+  50% {
+    margin-left: -900px;
+  }
+    100% {
+    margin-left: -1200px;
+  }
+  /* 100% {
+    margin-left: -1500px;
+  } */
+
+
+}

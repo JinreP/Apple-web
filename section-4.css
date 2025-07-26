@@ -351,25 +351,6 @@
 }
 
 .button-10 {
-<<<<<<< HEAD
-display: flex;
-padding: 10px 16px;
-justify-content: center;
-align-items: center;
-border: none;
-gap: 10px;
-border-radius: 999px;
-background: #0071E3;
-color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 20px; /* 125% */
-margin: auto;
-    margin-top: 20px;
-=======
   display: flex;
   padding: 10px 16px;
   justify-content: center;
@@ -387,7 +368,6 @@ margin: auto;
   line-height: 20px; /* 125% */
   margin: auto;
   margin-top: 20px;
->>>>>>> 048a967 (animation)
 }
 
 .vector-2 {

@@ -83,23 +83,6 @@ body:has(#movie-3:target) .bullets .bullet:nth-child(3) {
   background-color: #000;
 }
 .button-13 {
-<<<<<<< HEAD
-    display: inline-flex;
-padding: 12px 20px;
-justify-content: center;
-align-items: center;
-gap: 10px;
-border-radius: 999px;
-border: none;
-background: #F5F5F7;
-color: #000;
-font-family: Inter;
-font-size: 17px;
-font-style: normal;
-font-weight: 400;
-line-height: 20px; /* 117.647% */
-letter-spacing: -0.374px;
-=======
   display: inline-flex;
   padding: 12px 20px;
   justify-content: center;
@@ -115,7 +98,6 @@ letter-spacing: -0.374px;
   font-weight: 400;
   line-height: 20px; /* 117.647% */
   letter-spacing: -0.374px;
->>>>>>> 048a967 (animation)
 }
 
 .movie-2 p {
@@ -184,47 +166,6 @@ letter-spacing: -0.374px;
   border-radius: 50%;
 }
 .phone-movie {
-<<<<<<< HEAD
-    display: none;
-}
-
-.movie-3 p {
-        text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #FFF;
-text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.60);
-font-family: Inter;
-font-size: 17px;
-font-style: normal;
-font-weight: 700;
-line-height: 20px; /* 117.647% */
-opacity: 0.999;
-color: #FFF;
-font-family: Inter;
-font-size: 17px;
-font-style: normal;
-font-weight: 400;
-line-height: 20px;
-}
-
-    .phone-article {
-    display: none;
-}
-
-.section-5 {
-    animation: section-5 infinite 5s alternate;
-      scroll-behavior: smooth;
-
-}
-.section-5:hover {
-    animation-play-state: paused;
-}
-
-.bullets:hover {
-    animation-play-state: paused;
-=======
   display: none;
 }
 
@@ -238,7 +179,6 @@ line-height: 20px;
 
 .bullets:hover {
   animation-play-state: paused;
->>>>>>> 048a967 (animation)
 }
 @keyframes section-5 {
   0% {
@@ -250,20 +190,10 @@ line-height: 20px;
   50% {
     margin-left: -900px;
   }
-<<<<<<< HEAD
-    100% {
-=======
   100% {
->>>>>>> 048a967 (animation)
     margin-left: -1200px;
   }
   /* 100% {
     margin-left: -1500px;
   } */
-<<<<<<< HEAD
-
-
 }
-=======
-}
->>>>>>> 048a967 (animation)

@@ -203,13 +203,8 @@ padding-left: 10px; */
         display: none;
     } */
 
-<<<<<<< HEAD
- .article-container:hover {
-    animation-play-state: paused;
-=======
 .article-container:hover {
   animation-play-state: paused;
->>>>>>> 048a967 (animation)
 }
 
 /* .article-container {
@@ -219,34 +214,6 @@ padding-left: 10px; */
 } */
 
 .article {
-<<<<<<< HEAD
-    position: absolute;
-    left: 100%;
-    animation: article;
-    animation-duration: 15s;
-    animation-timing-function: linear;
-    animation-iteration-count: infinite ;
-}
-
-.article-2 {
- animation-delay: 4s;
-}
-.article-3 {
- animation-delay: 8s;
-}
-
-.article-4 {
- animation-delay: 12s;
-}
-
-.article-5 {
- animation-delay: 16s;
-}
-@keyframes article {
-to {
-    left: -400px;
-}
-=======
   position: relative;
   left: 100%;
   animation: article;
@@ -280,12 +247,7 @@ to {
     left: -1250px;
   }
 
->>>>>>> 048a967 (animation)
   /* 100% {
     margin-left: -1500px;
   } */
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 048a967 (animation)

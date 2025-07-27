@@ -136,7 +136,26 @@ body:has(#movie-3:target) .bullets .bullet:nth-child(3) {
   flex-shrink: 0;
   scroll-snap-align: center;
 }
-
+.movie-3 p {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.6);
+  font-family: Inter;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 117.647% */
+  opacity: 0.999;
+  color: #fff;
+  font-family: Inter;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
 .icon {
   text-align: center;
   display: flex;
